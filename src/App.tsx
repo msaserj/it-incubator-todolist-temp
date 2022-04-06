@@ -6,14 +6,15 @@ function App() {
 
     let tasks1: Array<TaskType> = [
         {id: 1, title: "CSS", isDone: true},
-        {id: 1, title: "JS", isDone: true},
-        {id: 1, title: "React", isDone: false}
+        {id: 2, title: "JS", isDone: true},
+        {id: 3, title: "React", isDone: false}
     ]
 
     let tasks2: Array<TaskType> = [
         {id: 1, title: "Terminator", isDone: true},
-        {id: 1, title: "XXX", isDone: false},
-        {id: 1, title: "Back To The Future", isDone: true}
+        {id: 2, title: "XXX", isDone: false},
+        {id: 3, title: "Back To The Future", isDone: true},
+        {id: 4, title: "Back To The Future", isDone: true}
 
     ]
 
